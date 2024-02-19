@@ -14,7 +14,7 @@
      
 # The Deliverables
 
-- the repository contains a Power Point presentation as ppts and as pdf in which I have summarised and presented the findings from the EDA 
+- the repository contains a Power Point presentation as pdf in which I have summarised and presented the findings from the EDA 
 - There are also 2 Jupyter notebooks:
   + the 1st notebook contains the data cleaning
   + the 2nd notebook contains the EDA including the plots I created for the presentation 
