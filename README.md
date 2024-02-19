@@ -4,13 +4,20 @@
 
 - Given is the King County Housing Data: This dataset contains information about home sales in King County (USA)
 - the aim is to find at least 3 recommendations for the clients through EDA/statistical analysis
-
+- ***The Client:*** 
+   + William Rodriguez
+   + Buyer
+   + 2 people
+   + wants two houses 
+   + country (best timing & non-renovated)
+   + city house (fast & central location)
+     
 # The Deliverables
 
-- the repository contains a Power Point presentation as ppts and as pdf in which I have summarised and presented the findings from the EDA. 
+- the repository contains a Power Point presentation as ppts and as pdf in which I have summarised and presented the findings from the EDA 
 - There are also 2 Jupyter notebooks:
-  + the 1st contains the data cleaning
-  + the 2nd contains the EDA including the plots I created for the presentation 
+  + the 1st notebook contains the data cleaning
+  + the 2nd notebook contains the EDA including the plots I created for the presentation 
 
 
 # Setup
